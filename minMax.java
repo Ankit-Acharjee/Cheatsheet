@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 public class minMax {
     static void minmax(int[] arr){
         int min=Integer.MAX_VALUE;
@@ -20,4 +20,5 @@ public class minMax {
         int [] arr = {10,3,43,12,43,4231,5};
         minmax(arr);
     }
+
 }
